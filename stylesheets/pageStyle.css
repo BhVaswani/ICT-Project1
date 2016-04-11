@@ -1,0 +1,158 @@
+    
+body
+{
+
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+
+}
+h1
+{
+ text-align:center;
+ font-family:Verdana;
+ color:#01A9DB;
+
+}
+h3
+{
+    text-align:center;
+    font-family:charcoal;
+    color:#0080FF;
+}
+h5{
+    padding-top:40px;
+    padding-bottom:20px;
+    text-align:center;
+    font-size:16px;
+}
+#nav
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+#selected{
+    background-color:#303333;
+}
+
+.navClass 
+{   
+    float:left;
+}
+.hoverNav:link,.hoverNav:visited
+{
+    display:block;
+    width:120px;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#798080;
+    text-align:center;
+    padding:4px;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+.hoverNav:hover,.hoverNav:active
+{
+    background-color:#303333;
+}
+#navTab
+{
+    padding-left:40px;
+    padding-right:10px;
+
+}
+
+#hikingNav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    width: 100px;
+    background-color: rgba(41, 51, 64, 0.65);
+    border-radius:5px;
+}
+
+div#hikingNav {
+    padding-top: 50px;
+}
+
+#mainInfo{
+    padding-top:20px;
+}
+
+#info {
+
+    margin-left: 129px;
+    margin-right: 109px;
+    margin-top: -114px;
+}
+
+div#hikes {
+
+    text-align: left;
+}
+
+
+#hikingNav li a {
+    display: block;
+    color: #B88860;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#hikingNav li a:hover {
+    background-color: #a7a8a8;
+    color: white;
+}
+
+
+
+#header2{
+    padding-top:60px;
+}
+#header3{
+    padding-top:40px;
+}
+
+p
+{
+  text-align:justify;
+  font-size:17px;
+  line-height:120%;
+}
+
+
+.content{
+    text-align:center;
+
+}
+
+
+#info{
+    padding-top:20px;
+
+}
+
+#footconatiner{
+    padding-top:80px;
+}
+#cmd_footconatiner{
+    padding-bottom:20px;
+}
+#containerMain
+{
+    width: 760px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(207, 218, 218, 0.36);
+    border-radius:5px;
+    position: relative;
+    height: auto;
+}
+
+#Mainheader{
+    padding-top: 20px;
+}

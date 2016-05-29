@@ -105,6 +105,14 @@ div#hikes {
     color: white;
 }
 
+#downBtnRSL{
+    padding-top:20px;
+    padding-bottom:10px;
+}
+
+#downBtnEr{
+    padding-top:20px;
+}
 
 
 #header2{
